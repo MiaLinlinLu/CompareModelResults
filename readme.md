@@ -1,5 +1,5 @@
-# steps:
-## run jupyter notebook on cluster  ---> get csv files for distance. 
+# Steps:
+## Run jupyter notebook on cluster  ---> get csv files for distance. 
 [Calc_Distance_for_Batch_Samples_CFlow.ipynb](https://github.com/MiaLinlinLu/CompareModelResults/blob/main/Calc_Distance_for_Batch_Samples_CFlow.ipynb)
 
     ### how to run this jupyter notebook
@@ -18,7 +18,7 @@
     6, login the jupyter notebook through the LINK
     
     
- ## run jupyter notebook on local ----> plot histograms for distance
+ ## Run jupyter notebook on local ----> plot histograms for distance
 
 [plot_distance_from_csv_files.ipynb](https://github.com/MiaLinlinLu/CompareModelResults/blob/main/plot_distance_from_csv_files.ipynb)
     
