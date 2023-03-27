@@ -20,7 +20,7 @@
     
  ## run jupyter notebook on local ----> plot histograms for distance
 
-[Calc_Distance_for_Batch_Samples_CFlow.ipynb](https://github.com/MiaLinlinLu/CompareModelResults/blob/main/plot_distance_from_csv_files.ipynb)
+[plot_distance_from_csv_files.ipynb](https://github.com/MiaLinlinLu/CompareModelResults/blob/main/plot_distance_from_csv_files.ipynb)
     
    
 
